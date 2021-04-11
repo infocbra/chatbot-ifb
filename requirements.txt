@@ -1,0 +1,13 @@
+appdirs==1.4.4
+beautifulsoup4==4.9.1  
+bs4==0.0.1
+distlib==0.3.0
+filelock==3.0.12       
+pbr==5.4.5
+pyTelegramBotAPI==3.7.1
+requests==2.7.0        
+six==1.15.0
+soupsieve==2.0.1       
+stevedore==1.32.0      
+urlopen==1.0.0
+virtualenv-clone==0.5.4
